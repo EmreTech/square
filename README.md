@@ -1,6 +1,13 @@
 # square
 Small Shell script to help circumvent Disney Circle.
 
+## mac-changer
+After reading this repository, I think mac-changer maybe a better solution for convienance. However kudos to the author and contributors in fork/s.
+
+https://github.com/lwsnz/mac-changer
+
+----
+
 # Support
 
 Right now, this solution only works with macOS and Linux. Linux will need a few adjustments.
